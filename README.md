@@ -91,3 +91,6 @@ Execute the program
 ~~~
 # OUPUT
 ![output2](timetable.png)
+
+# Result:
+Thus the program write a html webpage page to display your timetable is done.
